@@ -3,7 +3,7 @@
 #### **`Computer Science Student`**
 
 🎓 Studying Computer Science at the Universidade Federal de Pelotas (UFPel)  
-🇧🇷 Brazilian  &nbsp;&nbsp;|&nbsp;&nbsp; 💡 Interested in **Data Engineering** & **Computer Graphics**
+🇧🇷 Brazilian  &nbsp;&nbsp;|&nbsp;&nbsp; 💡 Interested in **Data Science** & **Computer Graphics**
 
 <img src="https://doveresearch.org/wp-content/uploads/2023/03/ufpel_logo_text-300x133-1.png" width="320" alt="UFPel Logo" />
 

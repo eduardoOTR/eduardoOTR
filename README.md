@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Eduardo Ramos
 
-<!--
-**eduardoOTR/eduardoOTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Computer Science Student`**
 
-Here are some ideas to get you started:
+🎓 Studying Computer Science at the Federal University of Pelotas (UFPel)  
+🇧🇷 Brazilian  &nbsp;&nbsp;|&nbsp;&nbsp; 💡 Interested in **Data Engineering** & **Computer Graphics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://doveresearch.org/wp-content/uploads/2023/03/ufpel_logo_text-300x133-1.png" width="320" alt="UFPel Logo" />
+
+---
+
+## 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=cs,c,python,java,javascript,html,css,php,lua,github,git,unity,vscode,opencv&theme=dark&perline=9)](https://skillicons.dev)
+
+---
+
+## 💬 Contact
+
+📧 [eodtramos@inf.ufpel.edu.br](mailto:eodtramos@inf.ufpel.edu.br)

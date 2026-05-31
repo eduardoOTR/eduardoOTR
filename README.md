@@ -11,7 +11,7 @@
 
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,c,python,java,javascript,html,css,php,lua,vscode,unity,github,git,latex,opencv&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,python,java,javascript,html,css,php,lua,rust,vscode,unity,opencv,mysql,github,git,docker,latex&theme=dark&perline=10)](https://skillicons.dev)
 
 ---
 

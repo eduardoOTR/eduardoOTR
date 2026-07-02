@@ -17,4 +17,4 @@
 
 ## 💬 Contact
 
-📧 [eodtramos@inf.ufpel.edu.br](mailto:eodtramos@inf.ufpel.edu.br)
+📧 [otr07eduardo@gmail.com](mailto:otr07eduardo@gmail.com)

@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools (Learning)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,python,java,javascript,html,css,php,lua,rust,vscode,visualstudio,opencv,mysql,github,git,docker,latex,unity&theme=dark&perline=10)](https://skillicons.dev)
 

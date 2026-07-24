@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo Ramos
+# Eduardo Ramos
 
 #### **`Computer Science Student`**
 

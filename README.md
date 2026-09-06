@@ -11,7 +11,7 @@
 
 ## 🛠️ Languages & Tools (Learning)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,python,java,javascript,html,css,php,lua,rust,vscode,visualstudio,pytorch,postgres,react,git,docker,latex,godot&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,python,java,rust,javascript,html,css,php,lua,vscode,visualstudio,sklearn,pytorch,postgres,react,git,docker,latex,godot&theme=dark&perline=10)](https://skillicons.dev)
 
 ---
 

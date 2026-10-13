@@ -17,4 +17,5 @@
 
 ## 💬 Contact
 
-📧 [otr07eduardo@gmail.com](mailto:otr07eduardo@gmail.com)
+📧 [otr07eduardo@gmail.com](mailto:otr07eduardo@gmail.com)  
+👾 Discord: idart
